@@ -56,6 +56,15 @@ This project uses the **HuskyLens AI camera** and an **Arduino UNO** to detect h
 
 - **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
 
+## 📸 Project Results
+
+Here are some real-world shots of the project in action:
+
+📷 Photo 1 – Setup and Wiring  
+📷 Photo 2 – Face Detected and LED Triggered
+
+> *(Images will be added here once uploaded to the repo.)*
+
 ---
 
 > Feel free to fork or contribute!
