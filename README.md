@@ -39,7 +39,7 @@ This project uses the **HuskyLens AI camera** and an **Arduino UNO** to detect h
 
 ## 🗂️ Files
 
-- `main.ino` - Arduino sketch with the logic for HuskyLens face detection and LED control
+- `HUSKYLENS_GET_STARED.ino` - Arduino sketch with the logic for HuskyLens face detection and LED control
 
 ## 📦 Libraries Used
 
@@ -54,7 +54,7 @@ This project uses the **HuskyLens AI camera** and an **Arduino UNO** to detect h
 
 ## 🧑‍💻 Author
 
-- **khaled mahmoud sulaimani** – [@yourgithub](https://github.com/yourgithub)
+- **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
 
 ---
 
