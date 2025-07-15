@@ -49,13 +49,12 @@ This project uses the **HuskyLens AI camera** and an **Arduino UNO** to detect h
 ## 🚀 Getting Started
 
 1. Connect the components as shown above.
-2. Train the HuskyLens to recognize a face.
-3. Upload the sketch to your Arduino board.
-4. Observe the LED turning on when the face is detected.
+2. Upload the sketch to your Arduino board.
+3. Observe the LED turning on when the face is detected.
 
 ## 🧑‍💻 Author
 
-- **Your Name** – [@yourgithub](https://github.com/yourgithub)
+- **khaled mahmoud sulaimani** – [@yourgithub](https://github.com/yourgithub)
 
 ---
 
