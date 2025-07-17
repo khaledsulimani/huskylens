@@ -28,7 +28,7 @@ This project uses the **HuskyLens AI camera** and an **Arduino UNO** to detect h
 | LED +         | Pin 7            |
 | LED -         | GND (via 220Ω resistor) |
 
-> Note: The camera should be trained to recognize a face using the onboard interface before running the code.
+> Note: The camera should not be trained to recognize a face.
 
 ## 🧠 How It Works
 
@@ -52,10 +52,6 @@ This project uses the **HuskyLens AI camera** and an **Arduino UNO** to detect h
 2. Upload the sketch to your Arduino board.
 3. Observe the LED turning on when the face is detected.
 
-## 🧑‍💻 Author
-
-- **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
-
 ## 📸 Project Results
 
 Here are some real-world shots of the project in action:
@@ -65,9 +61,6 @@ Here are some real-world shots of the project in action:
 📷 Photo 2 – ![صورة واتساب بتاريخ 1447-01-20 في 12 50 29_7efd30b6](https://github.com/user-attachments/assets/c55f78fd-2fe8-4368-a33d-45d42ed5877a)
 
 
-> *(Images will be added here once uploaded to the repo.)*
+## 🧑‍💻 Author
 
----
-
-> Feel free to fork or contribute!
-
+- **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
